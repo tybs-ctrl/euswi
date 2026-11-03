@@ -9,7 +9,7 @@ let
 
     src = pkgs.fetchurl {
       url = "https://iit.com.ua/download/productfiles/euswi.64.tar";
-      hash = "sha256-aMybVdyX+rz6JkpBvs9qmbHGeGdx/lTulQKA4BrSfNI=";
+      hash = "sha256-p6vbo6xPylVgZ99EUFMHPIz7OgV9W2um6eSCKOJzHSE=";
     };
 
     nativeBuildInputs = [
